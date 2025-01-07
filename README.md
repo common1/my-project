@@ -15,4 +15,7 @@ git add charlie.txt
 git git config --list
 git commit -m "Third commit"
 git log --all --decorate --oneline --graph
+git push origin
+git pull
+
 
