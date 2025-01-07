@@ -20,5 +20,8 @@ git pull
 
 touch echo.txt
 
+git commit -m "Fifth commit"
+git push
+
 
 
